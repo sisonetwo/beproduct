@@ -45,7 +45,7 @@ app.get("/getProducts", (req, res) => {
       },
       {
         code: "005",
-        product: "Hat6",
+        product: "Hat",
       },
     ];
   }
